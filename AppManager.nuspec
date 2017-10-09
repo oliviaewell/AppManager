@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>$id$</id>
+    <id>1</id>
     <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <title>AppManager</title>
+    <authors>olivia ewell</authors>
+    <owners>olivia ewell</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <copyright>Copyright 2017 $author$</copyright>
+    <description>Test project</description>
+    <copyright>Copyright 2017</copyright>
     <frameworkAssemblies>
     </frameworkAssemblies>
     <dependencies>
